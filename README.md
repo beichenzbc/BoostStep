@@ -1,5 +1,5 @@
 # BoostStep
-This repository is the official implementation of BoostStep
+This repository is the official implementation of [BoostStep](https://arxiv.org/abs/2501.03226)
 
 **BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**\
 [Beichen Zhang](https://beichenzbc.github.io), [Yuhong Liu](https://beichenzbc.github.io), [Xiaoyi Dong](https://lightdxy.github.io/), [Yuhang Zang](https://yuhangzang.github.io/), [Pan Zhang](https://panzhang0212.github.io/), [Haodong Duan](https://kennymckormick.github.io/), [Yuhang Cao](https://scholar.google.com/citations?user=sJkqsqkAAAAJ&hl=zh-CN&oi=sra), [Dahua Lin](http://dahua.site/), [Jiaqi Wang](https://myownskyw7.github.io/)
