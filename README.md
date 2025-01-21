@@ -29,6 +29,8 @@ The inference code is released, you can run our booststep on AMC-12 benchmark by
 python reasoning.py --api_key="Your_API_KEY"
 ```
 
+Then, run `check_answer-4o-option.py` to judge your answer with GPT-4o.
+
 ## ⭐ Demos
 
 <p align="center"> <a>  
