@@ -39,3 +39,11 @@ Here we demonstrate a specific example. Given the question, we first let the mod
 
 ## Citation
 If you find our work helpful for your research, please consider giving a star or a citation, thanks!
+```
+@article{zhang2025booststep,
+  title={BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning},
+  author={Zhang, Beichen and Liu, Yuhong and Dong, Xiaoyi and Zang, Yuhang and Zhang, Pan and Duan, Haodong and Cao, Yuhang and Lin, Dahua and Wang, Jiaqi},
+  journal={arXiv preprint arXiv:2501.03226},
+  year={2025}
+}
+```
