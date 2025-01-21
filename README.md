@@ -16,12 +16,16 @@ This repository is the official implementation of [BoostStep](https://arxiv.org/
 </a> </p>
 
 ## 📜 News
+🚀 [2025/1/21] The inference code of BoostStep is released
 🚀 [2025/1/7] The example problem bank and the AMC test set are released
 🚀 [2025/1/7] The paper is released!
 
 ## 🛠️ Usage
 
-We will soon release our code of step-level in-context learning with first-try strategy.
+The inference code is released, you can run our booststep on AMC-12 benchmark by the following command:
+```shell
+python reasoning.py --api_key="Your_API_KEY"
+```
 
 ## ⭐ Demos
 
