@@ -17,7 +17,9 @@ This repository is the official implementation of [BoostStep](https://arxiv.org/
 
 ## 📜 News
 🚀 [2025/1/21] The inference code of BoostStep is released
+
 🚀 [2025/1/7] The example problem bank and the AMC test set are released
+
 🚀 [2025/1/7] The paper is released!
 
 ## 🛠️ Usage
